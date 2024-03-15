@@ -12,7 +12,7 @@ title                    : "Shanxi's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Shanxi Shen"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://shanxdev424.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://shanxdev424.github.io/"
 
@@ -26,7 +26,7 @@ author:
   bio              : "shanxi"
   location         : "Xi'an"
   employer         : "Northwestern Polytechnical University"
-  uri              : https://shanxdev424.github.io/
+  uri              : #https://shanxdev424.github.io/
   email            : "shenshanxi@mail.nwpu.edu.cn" 
 
   # Academic websites

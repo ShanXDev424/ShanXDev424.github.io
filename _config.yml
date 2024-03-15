@@ -22,12 +22,11 @@ repository               : "https://shanxdev424.github.io/"
 author:
   # Biographic information
   avatar           : "my.png"
-  name             : "Shanxi Shen"
-  pronouns         : "she/her"  
+  name             : "Shanxi Shen" 
   bio              : "shanxi"
   location         : "Xi'an"
   employer         : "Northwestern Polytechnical University"
-  uri              : "https://shanxdev424.github.io/"
+  uri              : https://shanxdev424.github.io/
   email            : "shenshanxi@mail.nwpu.edu.cn" 
 
   # Academic websites

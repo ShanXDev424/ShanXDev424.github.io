@@ -21,13 +21,13 @@ repository               : "https://shanxdev424.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "my.jpg"
+  avatar           : "my.png"
   name             : "Shanxi Shen"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "shanxi"
   location         : "Xi'an"
   employer         : "Northwestern Polytechnical University"
-  uri              : # URL
+  uri              : "https://shanxdev424.github.io/"
   email            : "shenshanxi@mail.nwpu.edu.cn" 
 
   # Academic websites

@@ -21,14 +21,14 @@ repository               : "https://shanxdev424.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "my.png"
+  avatar           : "my.jpg"
   name             : "Shanxi Shen"
   pronouns         : # example: "she/her"  
   bio              : "shanxi"
   location         : "Xi'an"
   employer         : "Northwestern Polytechnical University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "shenshanxi@mail.nwpu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -46,8 +46,6 @@ author:
 
   # Social media
   facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
@@ -61,7 +59,6 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "UniofOxford"  # Replace this with your X / Twitter handle
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username

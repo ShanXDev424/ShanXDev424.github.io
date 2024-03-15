@@ -10,7 +10,7 @@ I'm a third year undergraduate student from School of Computer Science, Northwes
 
 You can find my CV here: [shanx's Curriculum Vitae](../assets/CV.pdf).
 
-[Email](mailto:shenshanxi@mail.nwpu.edu.cn) / [Github](https://github.com/ShanXDev424) / [Wechat](../images/wechat.jpg)
+[Wechat](../images/wechat.jpg)
 
 A data-driven personal website
 ======

@@ -25,7 +25,7 @@ author:
   name             : "Shanxi Shen" 
   bio              : "shanxi"
   location         : "Xi'an"
-  employer         : "Northwestern Polytechnical University"
+  #employer         : "Northwestern Polytechnical University"
   uri              : #https://shanxdev424.github.io/
   email            : "shenshanxi@mail.nwpu.edu.cn" 
 

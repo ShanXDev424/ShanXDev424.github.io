@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a third year undergraduate student from School of Computer Science, Northwestern Polytechnical University. My research interest includes computer vision, machine learning, and deep learning.
+I'm a third year undergraduate student from School of Computer Science, Northwestern Polytechnical University. My research interest includes computer vision.
 
 You can find my CV here: [shanx's Curriculum Vitae](../assets/CV.pdf).
 
